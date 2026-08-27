@@ -1,0 +1,158 @@
+%PDF-1.5
+%€‚ƒ
+5 0 obj
+<< /Length 6 0 R /Filter /FlateDecode >>
+stream
+xÚ—ÛŠe5†ï÷SäR/ŒU•Êi. x¡îF”z{hÁ§÷¯Õ‡Y+I-6ö0°š?ùë”¤)U	dÿ>}¾¿ßáÿÇ'{şøéÛÀ\#¥ğÏeBéQrÍ`Ò…jÔŠŸ•^b+U¸†Û¥Õ*³§~dG–2å9IávXóŒkş|9±\[¬JöW`dÀ~¶Tl_¼~½2é½Â¤–kH©ØÍT¤ZÖŞ^Ã—ßxÿî—oşøıïÀ¥„ë¯!…ë#~§pı7|öÕã‡‡‡ÏÃõcøúzùñŞSâ”b¡ÚjúŸÿğîÏ7Ÿö“‘H¸#û]©`‹Æ¹uMU;2-Ä1w–Æ[†}jJEmˆĞu¥ô¨)3VÕ.œ²æ¢‘¿(=º)»FmRº1m=2e­¯J‡š²$½Ö^6f9`íéEéÑMYà§&IÆ~P±–éEéĞIÉ™cÑª9¯”;:¹%d¯”’ª®Üîè˜¡ÔSsKºÈĞUAXµi¥¶¨Ê°ï¯¹ÎºoR¢ÁKDDû¤<0E,Ÿ©ÓB©l R%?)9‚€õté¦lÈ;lƒ=-ï‚¦~U:Ô”œá‡QjZ¹õ¨)ÅjMÉc¡TÔ3Uày²ì\9Ì'cêb«™jYÌ§K§=³õ®åÕ;jÊŒ8[É…—{zôvÉqºí¨g£®šæÜvôWÃï´š—š²aê1ó%­æÓ¥£rŠSb‘Üî”£[´®ğ‚Ã¥/ÜºÔ”X?âòÆZ·.•“Û„‘ÇHÁÑí+‡z¦ŒÎÄË¡²Ú¹h†Ñg·.5eC/Ê«==:*§L­oµ£!æ8LÅ²—jïy¡ÜSSâjŠ½ãÌo‹sÈ¥›ÒÜÂl¯‹3Á¥¦ÄI0²RzÔ”ŒŠ¢ï¼r{ÌĞ¡ûÔNšLœÊê^qéèvVztt;ÍŠK7¥ùI­/fÅ¥£rºí]:å'rÄÙYn÷tª'[2†UWõÜÑ±*³Ò£SÇï!µSr˜{hÏ0È8ZDğ´[*o§¸¦\“®úÖ£Pf6·Œ¿#Vw¶KM)æ‡*5‹wé¦Ôd·½0-Ş&.İ”ˆ$õ¦/g¥CGeê¶je<ƒÊ=İ¦f«6Âå¼p»§c†¦)séX•i²]:vÂ|&xtê¾Émáëuáª>Q“Ò¡·iÕ1Nš2[Å
+‹,÷ôèí$’;â¼ÛíØñûÌïÑqÏéşté˜¡yOŞN"¹#Î·ÿ7±…½
+endstream
+endobj
+6 0 obj
+967
+endobj
+7 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+    /ProcSet [/PDF /Text /ImageC /ImageB]
+    /Font 2 0 R
+    /XObject 3 0 R >>
+/MediaBox [0 0 841.896 595.296]
+/Contents 5 0 R
+>>
+endobj
+8 0 obj
+<</S /GoTo /D [7 0 R /Fit]
+>>
+endobj
+10 0 obj
+<< /BaseFont /Helvetica
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+11 0 obj
+<< /BaseFont /Helvetica-Oblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+12 0 obj
+<< /BaseFont /Helvetica-Bold
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+13 0 obj
+<< /BaseFont /Helvetica-BoldOblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+    /KicadFont 10 0 R
+    /KicadFontI 11 0 R
+    /KicadFontB 12 0 R
+    /KicadFontBI 13 0 R
+>>
+endobj
+3 0 obj
+<<
+>>
+endobj
+4 0 obj
+<< /JavaScript
+ << /Names
+    [ (JSInit) << /Type /Action /S /JavaScript /JS (
+function ShM\(aEntries\) {
+    var aParams = [];
+    for \(var i in aEntries\) {
+        aParams.push\({
+            cName: aEntries[i][0],
+            cReturn: aEntries[i][1]
+        }\)
+    }
+
+    var cChoice = app.popUpMenuEx.apply\(app, aParams\);
+    if \(cChoice != null && cChoice.substring\(0, 1\) == '#'\) this.pageNum = parseInt\(cChoice.slice\(1\)\);
+    else if \(cChoice != null && cChoice.substring\(0, 4\) == 'http'\) app.launchURL\(cChoice\);
+    else if \(cChoice != null && cChoice.substring\(0, 4\) == 'file'\) app.openDoc\(cChoice.substring\(7\)\);
+}
+) >> ]
+ >>
+>>
+endobj
+1 0 obj
+<<
+/Type /Pages
+/Kids [
+7 0 R
+]
+/Count 1
+>>
+endobj
+14 0 obj
+<<
+/Producer (KiCad PDF)
+/CreationDate (D:20260828012152)
+/Creator (PCBNEW)
+/Title (LED lamp for gardening-NPTH-drl_map.pdf)
+/Author ()
+/Subject ()
+>>
+endobj
+9 0 obj
+<<
+/Title (Page 1)
+/Parent 15 0 R
+/A 8 0 R
+>>
+endobj
+15 0 obj
+<< /Type /Outlines
+   /Count 1
+   /First 9 0 R
+   /Last 9 0 R
+>>
+endobj
+16 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/Version /1.5
+/PageMode /UseOutlines
+/Outlines 15 0 R
+/Names 4 0 R
+/PageLayout /SinglePage
+>>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000002575 00000 n 
+0000001762 00000 n 
+0000001875 00000 n 
+0000001896 00000 n 
+0000000015 00000 n 
+0000001056 00000 n 
+0000001075 00000 n 
+0000001264 00000 n 
+0000002801 00000 n 
+0000001309 00000 n 
+0000001416 00000 n 
+0000001531 00000 n 
+0000001643 00000 n 
+0000002634 00000 n 
+0000002862 00000 n 
+0000002943 00000 n 
+trailer
+<< /Size 17 /Root 16 0 R /Info 14 0 R >>
+startxref
+3084
+%%EOF

@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+J1,Screw_Terminal_01x02,Altech_AK300_1x02_P5.00mm_45-Degree,108.6175,-28.0,90.0,top
+J2,Screw_Terminal_01x02,Altech_AK300_1x02_P5.00mm_45-Degree,172.0,-45.6175,0.0,top
+PIR1,~,PinSocket_1x03_P2.54mm_Vertical,163.984592,-94.281819,90.0,top
+PS1,IRM-10-12,Converter_ACDC_MeanWell_IRM-10-xx_THT,126.125,-45.0925,-90.0,top
+Q1,AO3400A,SOT-23,121.095,-82.7025,180.0,top
+R1,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,121.095,-72.7025,180.0,top
+R2,10k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,121.095,-77.7025,180.0,top
+R4,R_Photo,R_LDR_4.9x4.2mm_P2.54mm_Vertical,142.73,-93.0,180.0,top
+RV1,R_Potentiometer,Potentiometer_ACP_CA9-V10_Vertical,108.5,-63.0,90.0,top
+SW1,SW_SPDT,SWITCH_BASCULANT,191.382825,-79.595026,180.0,top
+SW2,SW_SPDT,SWITCH_BASCULANT,108.239704,-80.0,0.0,top
+U2,LM393,SOIC-8_5.3x6.2mm_P1.27mm,140.0,-78.0,270.0,top
