@@ -1,0 +1,9 @@
+Manufacturer=Panasonic
+PartNumber=EEEFK1H221P
+PartCategory=Capacitor Polarised
+PackageCategory=Other
+PinCount=2
+Version=5.2
+Released=2017-12-14 15:37:34
+Downloaded=2026-10-15 19:37:56
+3D=Y

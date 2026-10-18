@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_173324"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-12-14-15:37:34)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "EEEFK1H221P")
+)
+
+
+(pinAssign "ECS_173324"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-12-14-15:37:34)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_173324")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "EEEFK1H221P")
+)
+
+
+(part "EEEFK1H221P"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2017-12-14-15:37:34)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "EEEFK1H221P")
+    (pinAssignRef "ECS_173324")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Ecap 220uF 50V G case Panasonic Aluminium Electrolytic Capacitor 220uF 50 V dc 10mm Surface Mount series FK SMD lifetime 2000h")
+    (property "Manufacturer_Name" "Panasonic")
+    (property "Manufacturer_Part_Number" "EEEFK1H221P")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Arrow_Part_Number" "EEEFK1H221P")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/eeefk1h221p/panasonic")
+    (property "Datasheet_Link" "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf")
+    (property "compAreaTopHeight" 12)
+)
+
+

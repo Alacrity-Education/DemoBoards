@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EEEFK1H221P
+D Ecap 220uF 50V G case Panasonic Aluminium Electrolytic Capacitor 220uF 50 V dc 10mm Surface Mount series FK SMD lifetime 2000h
+K
+F http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf
+$ENDCMP
+#
+#End Doc Library
