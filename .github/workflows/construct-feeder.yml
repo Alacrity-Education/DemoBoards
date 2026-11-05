@@ -17,7 +17,7 @@ jobs:
 
       - name: Collect custom components
         id: feeder
-        uses: Alacrity-Education/ConstructFeeder@main
+        uses: Alacrity-Education/ConstructFeeder@v1
         with:
           root: .
           all-branches: "true"
